@@ -1,0 +1,9 @@
+import java.io.*
+class test
+{
+public static vlid main(String[] args)
+{
+System.out.println("Hello this is sample code");
+System.out.println("Hi this is sample code");
+}
+}
